@@ -150,6 +150,12 @@ int main()
      	printf("Essa opção não está disponível\n");
         system("pause");
         break;
+        
+        case 4:
+        printf("Obrigador por utilizar nosso sistema \n");
+        system("pause");
+        break;
+        
 	} // Fim de seleção 
    
     
